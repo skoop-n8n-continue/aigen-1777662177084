@@ -13,17 +13,17 @@
       "primary_color": {
         "type": "color",
         "label": "Primary Color",
-        "value": "#00b7af"
+        "value": "#ff0000"
       },
       "background_color": {
         "type": "color",
         "label": "Background Color",
-        "value": "#10181f"
+        "value": "#1a0000"
       },
       "text_color": {
         "type": "color",
         "label": "Text Color",
-        "value": "#ffffff"
+        "value": "#ffccd5"
       }
     }
   }
