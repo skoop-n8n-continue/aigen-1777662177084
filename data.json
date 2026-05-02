@@ -24,6 +24,18 @@
         "type": "color",
         "label": "Text Color",
         "value": "#ffffff"
+      },
+      "font_size": {
+        "type": "number",
+        "label": "Font Size (rem)",
+        "value": 8,
+        "meta": { "format": "integer" }
+      },
+      "font_style": {
+        "type": "enum",
+        "label": "Font Style",
+        "value": "normal",
+        "meta": { "options": ["normal", "italic"] }
       }
     }
   }

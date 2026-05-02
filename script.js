@@ -18,6 +18,8 @@ async function init() {
   document.documentElement.style.setProperty('--primary-color', settings.primary_color.value);
   document.documentElement.style.setProperty('--background-color', settings.background_color.value);
   document.documentElement.style.setProperty('--text-color', settings.text_color.value);
+  document.documentElement.style.setProperty('--font-size', settings.font_size.value);
+  document.documentElement.style.setProperty('--font-style', settings.font_style.value);
 
   // Apply content
   const content = data.sections.content;
