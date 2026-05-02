@@ -1,0 +1,30 @@
+{
+  "app_id": "aigen-1777662177084",
+  "document_version": 1,
+  "sections": {
+    "content": {
+      "message": {
+        "type": "text",
+        "label": "Welcome Message",
+        "value": "Hello World!"
+      }
+    },
+    "app_settings": {
+      "primary_color": {
+        "type": "color",
+        "label": "Primary Color",
+        "value": "#00b7af"
+      },
+      "background_color": {
+        "type": "color",
+        "label": "Background Color",
+        "value": "#10181f"
+      },
+      "text_color": {
+        "type": "color",
+        "label": "Text Color",
+        "value": "#ffffff"
+      }
+    }
+  }
+}
