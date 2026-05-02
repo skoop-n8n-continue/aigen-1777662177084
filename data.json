@@ -6,24 +6,24 @@
       "message": {
         "type": "text",
         "label": "Welcome Message",
-        "value": "Hello World!"
+        "value": "What's Up"
       }
     },
     "app_settings": {
       "primary_color": {
         "type": "color",
         "label": "Primary Color",
-        "value": "#ff0000"
+        "value": "#00b7af"
       },
       "background_color": {
         "type": "color",
         "label": "Background Color",
-        "value": "#1a0000"
+        "value": "#10181f"
       },
       "text_color": {
         "type": "color",
         "label": "Text Color",
-        "value": "#ffccd5"
+        "value": "#ffffff"
       }
     }
   }
